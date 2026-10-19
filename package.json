@@ -1,0 +1,12 @@
+{
+  "name": "catalogo-autos",
+  "version": "1.0.0",
+  "description": "Microservicio web de catálogo de autos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
